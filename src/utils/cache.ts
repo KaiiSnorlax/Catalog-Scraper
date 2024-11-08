@@ -11,5 +11,5 @@ export function readCache(url: string): string | undefined {
 
 export function writeCache(url: string, html: string) {
   cache[url] = html;
-  fs.writeFileSync(`${appDir}/../../cache.json`, JSON.stringify(cache));
+  fs.writeFileSync(`${appDir}/../../textOutputs/cache.json`, JSON.stringify(cache));
 }
