@@ -1,0 +1,1182 @@
+[
+  {
+    "program": {
+      "id": 1,
+      "name": "Aerospace Engineering",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/aerospaceengineering/bsaerospaceengineering/"
+    },
+    "concentrations": [
+      {
+        "id": "1",
+        "name": "Aeronautics",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/aerospaceengineering/bsaerospaceengineering/aeronauticsconcentration/"
+      },
+      {
+        "id": "2",
+        "name": "Astronautics",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/aerospaceengineering/bsaerospaceengineering/astronauticsconcentration/"
+      }
+    ]
+  },
+  {
+    "program": {
+      "id": 2,
+      "name": "Agricultural Business",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/agribusiness/bsagriculturalbusiness/"
+    },
+    "concentrations": []
+  },
+  {
+    "program": {
+      "id": 3,
+      "name": "Agricultural Communication",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/agriculturaleducationcommunication/bsagriculturalcommunication/"
+    },
+    "concentrations": []
+  },
+  {
+    "program": {
+      "id": 4,
+      "name": "Agricultural Science",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/agriculturaleducationcommunication/bsagriculturalscience/"
+    },
+    "concentrations": []
+  },
+  {
+    "program": {
+      "id": 5,
+      "name": "Agricultural Systems Management",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/bioresourceagriculturalengineering/bsagriculturalsystemsmanagement/"
+    },
+    "concentrations": []
+  },
+  {
+    "program": {
+      "id": 6,
+      "name": "Animal Science",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/animalscience/bsanimalscience/"
+    },
+    "concentrations": []
+  },
+  {
+    "program": {
+      "id": 7,
+      "name": "Anthropology and Geography",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/socialsciences/bsanthropologyandgeography/"
+    },
+    "concentrations": [
+      {
+        "id": "3",
+        "name": "Environmental Studies and Sustainability",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/socialsciences/bsanthropologyandgeography/environmentalstudiesandsustainabilityconcentration/"
+      },
+      {
+        "id": "4",
+        "name": "Global Studies and International Development",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/socialsciences/bsanthropologyandgeography/globalstudiesinternationaldevelopmentconcentration/"
+      },
+      {
+        "id": "5",
+        "name": "Human Ecology",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/socialsciences/bsanthropologyandgeography/humanecologyconcentration/"
+      }
+    ]
+  },
+  {
+    "program": {
+      "id": 8,
+      "name": "Architectural Engineering",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofarchitectureandenvironmentaldesign/architecturalengineering/bsarchitecturalengineering/"
+    },
+    "concentrations": []
+  },
+  {
+    "program": {
+      "id": 9,
+      "name": "Architecture",
+      "type": "BArch",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofarchitectureandenvironmentaldesign/architecture/bachelorofarchitecture/"
+    },
+    "concentrations": []
+  },
+  {
+    "program": {
+      "id": 10,
+      "name": "Art and Design",
+      "type": "BFA",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/artdesign/bfaartanddesign/"
+    },
+    "concentrations": [
+      {
+        "id": "6",
+        "name": "Graphic Design",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/artdesign/bfaartanddesign/graphicdesignconcentration/"
+      },
+      {
+        "id": "7",
+        "name": "Photography and Video",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/artdesign/bfaartanddesign/photographyconcentration/"
+      },
+      {
+        "id": "8",
+        "name": "Studio Art",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/artdesign/bfaartanddesign/studioartconcentration/"
+      }
+    ]
+  },
+  {
+    "program": {
+      "id": 11,
+      "name": "Biochemistry",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/chemistrybiochemistry/bsbiochemistry/"
+    },
+    "concentrations": [
+      {
+        "id": "111",
+        "name": "Polymers and Coatings",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/chemistrybiochemistry/bsbiochemistry/polymersandcoatingsconcentration/"
+      }
+    ]
+  },
+  {
+    "program": {
+      "id": 12,
+      "name": "Biological Sciences",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/biologicalsciences/bsbiologicalsciences/"
+    },
+    "concentrations": [
+      {
+        "id": "10",
+        "name": "Anatomy and Physiology",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/biologicalsciences/bsbiologicalsciences/anatomyandphysiologyconcentration/"
+      },
+      {
+        "id": "11",
+        "name": "Ecology, Evolution, Biodiversity, and Conservation",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/biologicalsciences/bsbiologicalsciences/ecologyevolutionbiodiversityandconservationconcentration/"
+      },
+      {
+        "id": "9",
+        "name": "General Curriculum in Biology",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/biologicalsciences/bsbiologicalsciences/generalcurriculuminbiologyconcentration/"
+      },
+      {
+        "id": "12",
+        "name": "Molecular and Cellular Biology",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/biologicalsciences/bsbiologicalsciences/molecularandcellularbiologyconcentration/"
+      }
+    ]
+  },
+  {
+    "program": {
+      "id": 13,
+      "name": "Biomedical Engineering",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/biomedicalengineering/bsbiomedicalengineering/"
+    },
+    "concentrations": [
+      {
+        "id": "14",
+        "name": "Bioinstrumentation",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/biomedicalengineering/bsbiomedicalengineering/bioinstrumentationconcentration/"
+      },
+      {
+        "id": "13",
+        "name": "General Curriculum in Biomedical Engineering",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/biomedicalengineering/bsbiomedicalengineering/generalcurriculum/"
+      },
+      {
+        "id": "15",
+        "name": "Mechanical Design",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/biomedicalengineering/bsbiomedicalengineering/mechanicaldesignconcentration/"
+      }
+    ]
+  },
+  {
+    "program": {
+      "id": 14,
+      "name": "BioResource and Agricultural Engineering",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/bioresourceagriculturalengineering/bsbioresourceandagriculturalengineering/"
+    },
+    "concentrations": []
+  },
+  {
+    "program": {
+      "id": 15,
+      "name": "Business Administration",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/orfaleacollegeofbusiness/bsbusinessadministration/"
+    },
+    "concentrations": [
+      {
+        "id": "16",
+        "name": "Accounting",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/orfaleacollegeofbusiness/bsbusinessadministration/accountingconcentration/"
+      },
+      {
+        "id": "17",
+        "name": "Consumer Packaging",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/orfaleacollegeofbusiness/bsbusinessadministration/consumerpackagingconcentration/"
+      },
+      {
+        "id": "18",
+        "name": "Entrepreneurship",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/orfaleacollegeofbusiness/bsbusinessadministration/entrepreneurshipconcentration/"
+      },
+      {
+        "id": "19",
+        "name": "Financial Management",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/orfaleacollegeofbusiness/bsbusinessadministration/financialmanagementconcentration/"
+      },
+      {
+        "id": "20",
+        "name": "Information Systems",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/orfaleacollegeofbusiness/bsbusinessadministration/informationsystemsconcentration/"
+      },
+      {
+        "id": "21",
+        "name": "Management and Human Resources",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/orfaleacollegeofbusiness/bsbusinessadministration/managementandhumanresourcesconcentration/"
+      },
+      {
+        "id": "22",
+        "name": "Marketing Management",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/orfaleacollegeofbusiness/bsbusinessadministration/marketingmanagementconcentration/"
+      },
+      {
+        "id": "23",
+        "name": "Quantitative Analysis",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/orfaleacollegeofbusiness/bseconomics/quantitativeanalysisconcentration/"
+      },
+      {
+        "id": "24",
+        "name": "Real Estate Finance",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/orfaleacollegeofbusiness/bsbusinessadministration/realestatefinanceconcentration/"
+      }
+    ]
+  },
+  {
+    "program": {
+      "id": 16,
+      "name": "Chemistry",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/chemistrybiochemistry/bschemistry/"
+    },
+    "concentrations": [
+      {
+        "id": "112",
+        "name": "Polymers and Coatings",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/chemistrybiochemistry/bschemistry/polymersandcoatingsconcentration/"
+      }
+    ]
+  },
+  {
+    "program": {
+      "id": 17,
+      "name": "Child Development",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/psychologychilddevelopment/bschilddevelopment/"
+    },
+    "concentrations": []
+  },
+  {
+    "program": {
+      "id": 18,
+      "name": "City and Regional Planning",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofarchitectureandenvironmentaldesign/cityregionalplanning/bscityandregionalplanning/"
+    },
+    "concentrations": []
+  },
+  {
+    "program": {
+      "id": 19,
+      "name": "Civil Engineering",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/civilenvironmentalengineering/bscivilengineering/"
+    },
+    "concentrations": []
+  },
+  {
+    "program": {
+      "id": 20,
+      "name": "Communication Studies",
+      "type": "BA",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/communicationstudies/bacommunicationstudies/"
+    },
+    "concentrations": []
+  },
+  {
+    "program": {
+      "id": 21,
+      "name": "Comparative Ethnic Studies",
+      "type": "BA",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/ethnicstudies/bacomparativeethnicstudies/"
+    },
+    "concentrations": []
+  },
+  {
+    "program": {
+      "id": 22,
+      "name": "Computer Engineering",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/computerengineering/bscomputerengineering/"
+    },
+    "concentrations": []
+  },
+  {
+    "program": {
+      "id": 23,
+      "name": "Computer Science",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/computersciencesoftwareengineering/bscomputerscience/"
+    },
+    "concentrations": [
+      {
+        "id": "26",
+        "name": "Artificial Intelligence and Machine Learning",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/computersciencesoftwareengineering/bscomputerscience/artificial-intelligence-and-machine-learning-concentration/"
+      },
+      {
+        "id": "27",
+        "name": "Data Engineering",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/computersciencesoftwareengineering/bscomputerscience/data-engineering-concentration/"
+      },
+      {
+        "id": "28",
+        "name": "Game Development",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/computersciencesoftwareengineering/bscomputerscience/game-development-concentration/"
+      },
+      {
+        "id": "25",
+        "name": "General Curriculum in Computer Science",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/computersciencesoftwareengineering/bscomputerscience/general-curriculum-in-computer-science/"
+      },
+      {
+        "id": "29",
+        "name": "Graphics",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/computersciencesoftwareengineering/bscomputerscience/graphics-concentration/"
+      },
+      {
+        "id": "30",
+        "name": "Privacy and Security",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/computersciencesoftwareengineering/bscomputerscience/privacy-and-security-concentration/"
+      }
+    ]
+  },
+  {
+    "program": {
+      "id": 24,
+      "name": "Construction Management",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofarchitectureandenvironmentaldesign/constructionmanagement/bsconstructionmanagement/"
+    },
+    "concentrations": []
+  },
+  {
+    "program": {
+      "id": 25,
+      "name": "Dairy Science",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/animalscience/bsdairyscience/"
+    },
+    "concentrations": []
+  },
+  {
+    "program": {
+      "id": 26,
+      "name": "Economics",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/orfaleacollegeofbusiness/bseconomics/"
+    },
+    "concentrations": []
+  },
+  {
+    "program": {
+      "id": 27,
+      "name": "Electrical Engineering",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/electricalengineering/bselectricalengineering/"
+    },
+    "concentrations": [
+      {
+        "id": "31",
+        "name": "General Curriculum in Electrical Engineering",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/electricalengineering/bselectricalengineering/general-curriculum-in-electrical-engineering/"
+      },
+      {
+        "id": "32",
+        "name": "Power",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/electricalengineering/bselectricalengineering/power-concentration/"
+      },
+      {
+        "id": "33",
+        "name": "Radio Frequency - Microwaves - Photonics",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/electricalengineering/bselectricalengineering/radio-frequency-microwaves-photonics-concentration/"
+      },
+      {
+        "id": "34",
+        "name": "Systems",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/electricalengineering/bselectricalengineering/systems-concentration/"
+      }
+    ]
+  },
+  {
+    "program": {
+      "id": 28,
+      "name": "English",
+      "type": "BA",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/english/baenglish/"
+    },
+    "concentrations": []
+  },
+  {
+    "program": {
+      "id": 29,
+      "name": "Environmental Earth and Soil Sciences",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/naturalresourcesmanagementenvironmentalsciences/bsenvironmentalearthsoilsciences/"
+    },
+    "concentrations": [
+      {
+        "id": "35",
+        "name": "Geology",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/naturalresourcesmanagementenvironmentalsciences/bsenvironmentalearthsoilsciences/geologyconcentration/"
+      },
+      {
+        "id": "36",
+        "name": "Hydrology",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/naturalresourcesmanagementenvironmentalsciences/bsenvironmentalearthsoilsciences/hydrologyconcentration/"
+      }
+    ]
+  },
+  {
+    "program": {
+      "id": 30,
+      "name": "Environmental Engineering",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/civilenvironmentalengineering/bsenvironmentalengineering/"
+    },
+    "concentrations": []
+  },
+  {
+    "program": {
+      "id": 31,
+      "name": "Environmental Management and Protection",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/naturalresourcesmanagementenvironmentalsciences/bsenvironmentalmanagementandprotection/"
+    },
+    "concentrations": [
+      {
+        "id": "37",
+        "name": "Watershed Management and Hydrology",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/naturalresourcesmanagementenvironmentalsciences/bsenvironmentalmanagementandprotection/watershedmanagementandhydrologyconcentration/"
+      },
+      {
+        "id": "38",
+        "name": "Wildlife Biology",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/naturalresourcesmanagementenvironmentalsciences/bsenvironmentalmanagementandprotection/wildlifebiologyconcentration/"
+      }
+    ]
+  },
+  {
+    "program": {
+      "id": 32,
+      "name": "Food Science",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/foodsciencenutrition/bsfoodscience/"
+    },
+    "concentrations": [
+      {
+        "id": "39",
+        "name": "Advanced Food Science",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/foodsciencenutrition/bsfoodscience/advancedfoodscienceconcentration/"
+      },
+      {
+        "id": "40",
+        "name": "Culinology",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/foodsciencenutrition/bsfoodscience/culinologyconcentration/"
+      }
+    ]
+  },
+  {
+    "program": {
+      "id": 33,
+      "name": "Forest and Fire Sciences",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/naturalresourcesmanagementenvironmentalsciences/bsforest-and-fire-sciences/"
+    },
+    "concentrations": [
+      {
+        "id": "41",
+        "name": "Watershed Management and Hydrology",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/naturalresourcesmanagementenvironmentalsciences/bsforest-and-fire-sciences/watershed-management-and-hydrology-concentration/"
+      },
+      {
+        "id": "43",
+        "name": "Wildland Fire and Fuels Management",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/naturalresourcesmanagementenvironmentalsciences/bsforest-and-fire-sciences/wildland-fire-and-fuels-management-concentration/"
+      },
+      {
+        "id": "42",
+        "name": "Wildlife Biology",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/naturalresourcesmanagementenvironmentalsciences/bsforest-and-fire-sciences/wildlife-biology-concentration/"
+      }
+    ]
+  },
+  {
+    "program": {
+      "id": 34,
+      "name": "General Engineering",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/generalengineering/bsgeneralengineering/"
+    },
+    "concentrations": []
+  },
+  {
+    "program": {
+      "id": 35,
+      "name": "Graphic Communication",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/graphiccommunication/bsgraphiccommunication/"
+    },
+    "concentrations": [
+      {
+        "id": "44",
+        "name": "Design Reproduction Technology",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/graphiccommunication/bsgraphiccommunication/designreproductiontechnologyconcentration/"
+      },
+      {
+        "id": "45",
+        "name": "Graphic Communication Management",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/graphiccommunication/bsgraphiccommunication/graphiccommunicationmanagementconcentration/"
+      },
+      {
+        "id": "46",
+        "name": "Graphics for Packaging",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/graphiccommunication/bsgraphiccommunication/graphicsforpackagingconcentration/"
+      },
+      {
+        "id": "47",
+        "name": "User Experience/User Interface",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/graphiccommunication/bsgraphiccommunication/userexperienceconcentration/"
+      }
+    ]
+  },
+  {
+    "program": {
+      "id": 36,
+      "name": "History",
+      "type": "BA",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/history/bahistory/"
+    },
+    "concentrations": []
+  },
+  {
+    "program": {
+      "id": 37,
+      "name": "Industrial Engineering",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/industrialmanufacturingengineering/bsindustrialengineering/"
+    },
+    "concentrations": []
+  },
+  {
+    "program": {
+      "id": 38,
+      "name": "Industrial Technology and Packaging",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/orfaleacollegeofbusiness/bsindustrialtechnologypackaging/"
+    },
+    "concentrations": [
+      {
+        "id": "48",
+        "name": "Industrial Technology",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/orfaleacollegeofbusiness/bsindustrialtechnologypackaging/industriatechnologyconcentration/"
+      },
+      {
+        "id": "49",
+        "name": "Packaging Technology",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/orfaleacollegeofbusiness/bsindustrialtechnologypackaging/packagingtechnologyconcentration/"
+      }
+    ]
+  },
+  {
+    "program": {
+      "id": 39,
+      "name": "Interdisciplinary Studies",
+      "type": "BA",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/interdisciplinarystudiesliberalarts/bainterdisciplinarystudies/"
+    },
+    "concentrations": [
+      {
+        "id": "50",
+        "name": "Ethics, Law and Social Justice",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/interdisciplinarystudiesliberalarts/bainterdisciplinarystudies/ethics-law-and-social-justice-concentration/"
+      },
+      {
+        "id": "51",
+        "name": "Global Citizenship and Social Sustainability",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/interdisciplinarystudiesliberalarts/bainterdisciplinarystudies/global-citizenship-and-social-sustainability-concentration/"
+      },
+      {
+        "id": "52",
+        "name": "Health and Society",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/interdisciplinarystudiesliberalarts/bainterdisciplinarystudies/health-and-society-concentration/"
+      },
+      {
+        "id": "53",
+        "name": "Science, Technology and Society",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/interdisciplinarystudiesliberalarts/bainterdisciplinarystudies/science-technology-and-society-concentration/"
+      },
+      {
+        "id": "54",
+        "name": "Visual Media and Cultural Studies",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/interdisciplinarystudiesliberalarts/bainterdisciplinarystudies/visual-media-and-cultural-studies-concentration/"
+      }
+    ]
+  },
+  {
+    "program": {
+      "id": 40,
+      "name": "Journalism",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/journalism/bsjournalism/"
+    },
+    "concentrations": [
+      {
+        "id": "58",
+        "name": "Individualized Course of Study",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/journalism/bsjournalism/individualizedcourseofstudy/"
+      },
+      {
+        "id": "55",
+        "name": "Media Innovation",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/journalism/bsjournalism/mediainnovationconcentration/"
+      },
+      {
+        "id": "56",
+        "name": "News",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/journalism/bsjournalism/newsconcentration/"
+      },
+      {
+        "id": "57",
+        "name": "Public Relations",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/journalism/bsjournalism/publicrelationsconcentration/"
+      }
+    ]
+  },
+  {
+    "program": {
+      "id": 41,
+      "name": "Kinesiology",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/kinesiologypublichealth/bskinesiology/"
+    },
+    "concentrations": [
+      {
+        "id": "59",
+        "name": "Exercise Science",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/kinesiologypublichealth/bskinesiology/exercisescienceconcentration/"
+      },
+      {
+        "id": "60",
+        "name": "Health Promotion",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/kinesiologypublichealth/bskinesiology/healthpromotionconcentration/"
+      },
+      {
+        "id": "61",
+        "name": "Sport Science",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/kinesiologypublichealth/bskinesiology/sportscienceconcentration/"
+      }
+    ]
+  },
+  {
+    "program": {
+      "id": 42,
+      "name": "Landscape Architecture",
+      "type": "BLA",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofarchitectureandenvironmentaldesign/landscapearchitecture/bacheloroflandscapearchitecture/"
+    },
+    "concentrations": []
+  },
+  {
+    "program": {
+      "id": 43,
+      "name": "Liberal Arts and Engineering Studies",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/interdisciplinaryprograms/bsliberalartsandengineeringstudies/#undergraduatetext"
+    },
+    "concentrations": [
+      {
+        "id": "62",
+        "name": "Computer Graphics",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/interdisciplinaryprograms/bsliberalartsandengineeringstudies/#undergraduatetextcomputergraphicsconcentration/"
+      },
+      {
+        "id": "63",
+        "name": "Electrical Engineering (Power)",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/interdisciplinaryprograms/bsliberalartsandengineeringstudies/#undergraduatetextelectricalengineering(power)concentration/"
+      },
+      {
+        "id": "64",
+        "name": "Industrial/Manufacturing Engineering - System Design",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/interdisciplinaryprograms/bsliberalartsandengineeringstudies/#undergraduatetextindustrial/manufacturingengineering-systemdesignconcentration/"
+      },
+      {
+        "id": "66",
+        "name": "Interactive Communication - Cinematic Focus",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/interdisciplinaryprograms/bsliberalartsandengineeringstudies/#undergraduatetextinteractivecommunication-cinematicfocusconcentration/"
+      },
+      {
+        "id": "67",
+        "name": "Interactive Communication - Theatrical Focus",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/interdisciplinaryprograms/bsliberalartsandengineeringstudies/#undergraduatetextinteractivecommunication-theatricalfocusconcentration/"
+      },
+      {
+        "id": "68",
+        "name": "Publishing Technology",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/interdisciplinaryprograms/bsliberalartsandengineeringstudies/#undergraduatetextpublishingtechnologyconcentration/"
+      },
+      {
+        "id": "69",
+        "name": "Technical Communication",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/interdisciplinaryprograms/bsliberalartsandengineeringstudies/#undergraduatetexttechnicalcommunicationconcentration/"
+      },
+      {
+        "id": "65",
+        "name": "Usability Studies",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/interdisciplinaryprograms/bsliberalartsandengineeringstudies/#undergraduatetextusabilitystudiesconcentration/"
+      }
+    ]
+  },
+  {
+    "program": {
+      "id": 44,
+      "name": "Liberal Studies",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/liberalstudiesanundergraduateteacherpreparationprogram/bsliberalstudies/"
+    },
+    "concentrations": [
+      {
+        "id": "71",
+        "name": "English",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/liberalstudiesanundergraduateteacherpreparationprogram/bsliberalstudies/englishconcentration/"
+      },
+      {
+        "id": "72",
+        "name": "Environmental Education​",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/liberalstudiesanundergraduateteacherpreparationprogram/bsliberalstudies/environmental-education-concentration/"
+      },
+      {
+        "id": "73",
+        "name": "History/Social Sciences",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/liberalstudiesanundergraduateteacherpreparationprogram/bsliberalstudies/historysocialsciencesconcentration/"
+      },
+      {
+        "id": "70",
+        "name": "Human Development",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/liberalstudiesanundergraduateteacherpreparationprogram/bsliberalstudies/human-development-concentration/"
+      },
+      {
+        "id": "74",
+        "name": "Mathematics",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/liberalstudiesanundergraduateteacherpreparationprogram/bsliberalstudies/mathematicsconcentration/"
+      },
+      {
+        "id": "75",
+        "name": "Science",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/liberalstudiesanundergraduateteacherpreparationprogram/bsliberalstudies/scienceconcentration/"
+      },
+      {
+        "id": "76",
+        "name": "Teaching English to Speakers of Other Languages​",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/liberalstudiesanundergraduateteacherpreparationprogram/bsliberalstudies/teachingenglishtospeakearsotherlanguageconcentration/"
+      }
+    ]
+  },
+  {
+    "program": {
+      "id": 45,
+      "name": "Manufacturing Engineering",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/industrialmanufacturingengineering/bsmanufacturingengineering/"
+    },
+    "concentrations": []
+  },
+  {
+    "program": {
+      "id": 46,
+      "name": "Marine Sciences",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/biologicalsciences/bsmarinesciences/"
+    },
+    "concentrations": []
+  },
+  {
+    "program": {
+      "id": 47,
+      "name": "Materials Engineering",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/materialsengineering/bsmaterialsengineering/"
+    },
+    "concentrations": []
+  },
+  {
+    "program": {
+      "id": 48,
+      "name": "Mathematics",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/mathematics/bsmathematics/"
+    },
+    "concentrations": [
+      {
+        "id": "78",
+        "name": "Applied Mathematics",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/mathematics/bsmathematics/appliedmathematicsconcentration/"
+      },
+      {
+        "id": "77",
+        "name": "General Curriculum in Mathematics",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/mathematics/bsmathematics/generalcurriculum/"
+      },
+      {
+        "id": "79",
+        "name": "Mathematics Teaching",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/mathematics/bsmathematics/mathematicsteachingconcentration/"
+      },
+      {
+        "id": "80",
+        "name": "Pure Mathematics",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/mathematics/bsmathematics/puremathematicsconcentration/"
+      }
+    ]
+  },
+  {
+    "program": {
+      "id": 49,
+      "name": "Mechanical Engineering",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/mechanicalengineering/bsmechanicalengineering/"
+    },
+    "concentrations": [
+      {
+        "id": "82",
+        "name": "Energy Resources",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/mechanicalengineering/bsmechanicalengineering/energyresourcesconcentration/"
+      },
+      {
+        "id": "81",
+        "name": "General Curriculum in Mechanical Engineering",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/mechanicalengineering/bsmechanicalengineering/general-curriculum/"
+      },
+      {
+        "id": "83",
+        "name": "Heating, Ventilating, Air-Conditioning and Refrigerating (HVAC&R)",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/mechanicalengineering/bsmechanicalengineering/hvacrconcentration/"
+      },
+      {
+        "id": "85",
+        "name": "Manufacturing",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/mechanicalengineering/bsmechanicalengineering/manufacturingconcentration/"
+      },
+      {
+        "id": "84",
+        "name": "Mechatronics",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/mechanicalengineering/bsmechanicalengineering/mechatronicsconcentration/"
+      }
+    ]
+  },
+  {
+    "program": {
+      "id": 50,
+      "name": "Microbiology",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/biologicalsciences/bsmicrobiology/"
+    },
+    "concentrations": []
+  },
+  {
+    "program": {
+      "id": 51,
+      "name": "Music",
+      "type": "BA",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/music/bamusic/"
+    },
+    "concentrations": []
+  },
+  {
+    "program": {
+      "id": 52,
+      "name": "Nutrition",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/foodsciencenutrition/bsnutrition/"
+    },
+    "concentrations": [
+      {
+        "id": "86",
+        "name": "Applied Nutrition",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/foodsciencenutrition/bsnutrition/appliednutritionconcentration/"
+      },
+      {
+        "id": "87",
+        "name": "Nutrition Science",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/foodsciencenutrition/bsnutrition/nutritionscienceconcentration/"
+      }
+    ]
+  },
+  {
+    "program": {
+      "id": 53,
+      "name": "Philosophy",
+      "type": "BA",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/philosophy/baphilosophy/"
+    },
+    "concentrations": [
+      {
+        "id": "88",
+        "name": "Ethics and Society",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/philosophy/baphilosophy/ethicsandsocietyconcentration/"
+      },
+      {
+        "id": "89",
+        "name": "Ethics of Science and Technology",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/philosophy/baphilosophy/ethicsandsocietyconcentration/"
+      },
+      {
+        "id": "90",
+        "name": "Philosophy and Religion",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/philosophy/baphilosophy/philosophy-and-religion-concentration/"
+      }
+    ]
+  },
+  {
+    "program": {
+      "id": 54,
+      "name": "Physics",
+      "type": "BA",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/physics/baphysics/"
+    },
+    "concentrations": []
+  },
+  {
+    "program": {
+      "id": 55,
+      "name": "Physics",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/physics/bsphysics/"
+    },
+    "concentrations": []
+  },
+  {
+    "program": {
+      "id": 56,
+      "name": "Plant Sciences",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/plant-sciences/bsplantsciences/index.html"
+    },
+    "concentrations": [
+      {
+        "id": "91",
+        "name": "Environmental Horticultural Science",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/plant-sciences/bsplantsciences/environmentalhorticulturescienceconcentration/"
+      },
+      {
+        "id": "92",
+        "name": "Fruit and Crop Science",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/plant-sciences/bsplantsciences/fruitcropscienceconcentration/"
+      },
+      {
+        "id": "93",
+        "name": "Plant Protection Science",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/plant-sciences/bsplantsciences/plantprotectionscienceconcentration/"
+      }
+    ]
+  },
+  {
+    "program": {
+      "id": 57,
+      "name": "Political Science",
+      "type": "BA",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/politicalscience/bapoliticalscience/"
+    },
+    "concentrations": [
+      {
+        "id": "94",
+        "name": "American Politics",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/politicalscience/bapoliticalscience/americanpoliticsconcentration/"
+      },
+      {
+        "id": "95",
+        "name": "Global Politics",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/politicalscience/bapoliticalscience/globalpoliticsconcentration/"
+      },
+      {
+        "id": "96",
+        "name": "Pre-Law",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/politicalscience/bapoliticalscience/prelawconcentration/"
+      }
+    ]
+  },
+  {
+    "program": {
+      "id": 58,
+      "name": "Public Health",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/kinesiologypublichealth/bspublichealth/"
+    },
+    "concentrations": [
+      {
+        "id": "103",
+        "name": "Community and Public Health",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/kinesiologypublichealth/bspublichealth/communitypublichealthconcentration/"
+      },
+      {
+        "id": "105",
+        "name": "Culture and Society in Health",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/kinesiologypublichealth/bspublichealth/culturesocietyhealthconcentration/"
+      },
+      {
+        "id": "107",
+        "name": "Physical Activity in Public Health",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/kinesiologypublichealth/bspublichealth/physicalactivitypublichealthconcentration/"
+      },
+      {
+        "id": "110",
+        "name": "Worksite and University Health Promotion",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/kinesiologypublichealth/bspublichealth/worksiteuniversityhealthpromotionconcentration/"
+      }
+    ]
+  },
+  {
+    "program": {
+      "id": 59,
+      "name": "Psychology",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/psychologychilddevelopment/bspsychology/"
+    },
+    "concentrations": []
+  },
+  {
+    "program": {
+      "id": 60,
+      "name": "Recreation, Parks, and Tourism Administration",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/experienceindustrymanagement/bsrecreationparksandtourismadministration/"
+    },
+    "concentrations": [
+      {
+        "id": "97",
+        "name": "Event Planning and Experience Management",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/experienceindustrymanagement/bsrecreationparksandtourismadministration/eventplanningandexperiencemanagementconcentration/"
+      },
+      {
+        "id": "98",
+        "name": "Sport & Recreation Management",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/experienceindustrymanagement/bsrecreationparksandtourismadministration/sportandrecreationmanagementconcentration/"
+      },
+      {
+        "id": "99",
+        "name": "Tourism, Hospitality and Destination Management",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/experienceindustrymanagement/bsrecreationparksandtourismadministration/tourismhospitalitydestinationmanagementconcentration/"
+      }
+    ]
+  },
+  {
+    "program": {
+      "id": 61,
+      "name": "Sociology",
+      "type": "BA",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/socialsciences/basociology/"
+    },
+    "concentrations": [
+      {
+        "id": "104",
+        "name": "Criminal Justice",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/socialsciences/basociology/criminaljusticeconcentration/"
+      },
+      {
+        "id": "106",
+        "name": "Organizations",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/socialsciences/basociology/organizationsconcentration/"
+      },
+      {
+        "id": "108",
+        "name": "Social Services",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/socialsciences/basociology/socialservicesconcentration/"
+      }
+    ]
+  },
+  {
+    "program": {
+      "id": 62,
+      "name": "Software Engineering",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/computersciencesoftwareengineering/bssoftwareengineering/"
+    },
+    "concentrations": []
+  },
+  {
+    "program": {
+      "id": 63,
+      "name": "Spanish",
+      "type": "BA",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/worldlanguagescultures/baspanish/"
+    },
+    "concentrations": []
+  },
+  {
+    "program": {
+      "id": 64,
+      "name": "Statistics",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/statistics/bsstatistics/"
+    },
+    "concentrations": []
+  },
+  {
+    "program": {
+      "id": 65,
+      "name": "Theatre Arts",
+      "type": "BA",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/theatredance/batheatrearts/"
+    },
+    "concentrations": []
+  },
+  {
+    "program": {
+      "id": 66,
+      "name": "Wine and Viticulture",
+      "type": "BS",
+      "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/wineandviticulture/bswineandviticulture/"
+    },
+    "concentrations": [
+      {
+        "id": "100",
+        "name": "Enology",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/wineandviticulture/bswineandviticulture/enologyconcentration/"
+      },
+      {
+        "id": "101",
+        "name": "Viticulture",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/wineandviticulture/bswineandviticulture/viticultureconcentration/"
+      },
+      {
+        "id": "102",
+        "name": "Wine Business",
+        "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/wineandviticulture/bswineandviticulture/winebusinessconcentration/"
+      }
+    ]
+  }
+]

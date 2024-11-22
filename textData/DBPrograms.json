@@ -1,0 +1,398 @@
+[
+  {
+    "id": 1,
+    "name": "Aerospace Engineering",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/aerospaceengineering/bsaerospaceengineering/"
+  },
+  {
+    "id": 2,
+    "name": "Agricultural Business",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/agribusiness/bsagriculturalbusiness/"
+  },
+  {
+    "id": 3,
+    "name": "Agricultural Communication",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/agriculturaleducationcommunication/bsagriculturalcommunication/"
+  },
+  {
+    "id": 4,
+    "name": "Agricultural Science",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/agriculturaleducationcommunication/bsagriculturalscience/"
+  },
+  {
+    "id": 5,
+    "name": "Agricultural Systems Management",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/bioresourceagriculturalengineering/bsagriculturalsystemsmanagement/"
+  },
+  {
+    "id": 6,
+    "name": "Animal Science",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/animalscience/bsanimalscience/"
+  },
+  {
+    "id": 7,
+    "name": "Anthropology and Geography",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/socialsciences/bsanthropologyandgeography/"
+  },
+  {
+    "id": 8,
+    "name": "Architectural Engineering",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofarchitectureandenvironmentaldesign/architecturalengineering/bsarchitecturalengineering/"
+  },
+  {
+    "id": 9,
+    "name": "Architecture",
+    "type": "BArch",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofarchitectureandenvironmentaldesign/architecture/bachelorofarchitecture/"
+  },
+  {
+    "id": 10,
+    "name": "Art and Design",
+    "type": "BFA",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/artdesign/bfaartanddesign/"
+  },
+  {
+    "id": 11,
+    "name": "Biochemistry",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/chemistrybiochemistry/bsbiochemistry/"
+  },
+  {
+    "id": 12,
+    "name": "Biological Sciences",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/biologicalsciences/bsbiologicalsciences/"
+  },
+  {
+    "id": 13,
+    "name": "Biomedical Engineering",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/biomedicalengineering/bsbiomedicalengineering/"
+  },
+  {
+    "id": 14,
+    "name": "BioResource and Agricultural Engineering",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/bioresourceagriculturalengineering/bsbioresourceandagriculturalengineering/"
+  },
+  {
+    "id": 15,
+    "name": "Business Administration",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/orfaleacollegeofbusiness/bsbusinessadministration/"
+  },
+  {
+    "id": 16,
+    "name": "Chemistry",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/chemistrybiochemistry/bschemistry/"
+  },
+  {
+    "id": 17,
+    "name": "Child Development",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/psychologychilddevelopment/bschilddevelopment/"
+  },
+  {
+    "id": 18,
+    "name": "City and Regional Planning",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofarchitectureandenvironmentaldesign/cityregionalplanning/bscityandregionalplanning/"
+  },
+  {
+    "id": 19,
+    "name": "Civil Engineering",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/civilenvironmentalengineering/bscivilengineering/"
+  },
+  {
+    "id": 20,
+    "name": "Communication Studies",
+    "type": "BA",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/communicationstudies/bacommunicationstudies/"
+  },
+  {
+    "id": 21,
+    "name": "Comparative Ethnic Studies",
+    "type": "BA",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/ethnicstudies/bacomparativeethnicstudies/"
+  },
+  {
+    "id": 22,
+    "name": "Computer Engineering",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/computerengineering/bscomputerengineering/"
+  },
+  {
+    "id": 23,
+    "name": "Computer Science",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/computersciencesoftwareengineering/bscomputerscience/"
+  },
+  {
+    "id": 24,
+    "name": "Construction Management",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofarchitectureandenvironmentaldesign/constructionmanagement/bsconstructionmanagement/"
+  },
+  {
+    "id": 25,
+    "name": "Dairy Science",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/animalscience/bsdairyscience/"
+  },
+  {
+    "id": 26,
+    "name": "Economics",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/orfaleacollegeofbusiness/bseconomics/"
+  },
+  {
+    "id": 27,
+    "name": "Electrical Engineering",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/electricalengineering/bselectricalengineering/"
+  },
+  {
+    "id": 28,
+    "name": "English",
+    "type": "BA",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/english/baenglish/"
+  },
+  {
+    "id": 29,
+    "name": "Environmental Earth and Soil Sciences",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/naturalresourcesmanagementenvironmentalsciences/bsenvironmentalearthsoilsciences/"
+  },
+  {
+    "id": 30,
+    "name": "Environmental Engineering",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/civilenvironmentalengineering/bsenvironmentalengineering/"
+  },
+  {
+    "id": 31,
+    "name": "Environmental Management and Protection",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/naturalresourcesmanagementenvironmentalsciences/bsenvironmentalmanagementandprotection/"
+  },
+  {
+    "id": 32,
+    "name": "Food Science",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/foodsciencenutrition/bsfoodscience/"
+  },
+  {
+    "id": 33,
+    "name": "Forest and Fire Sciences",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/naturalresourcesmanagementenvironmentalsciences/bsforest-and-fire-sciences/"
+  },
+  {
+    "id": 34,
+    "name": "General Engineering",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/generalengineering/bsgeneralengineering/"
+  },
+  {
+    "id": 35,
+    "name": "Graphic Communication",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/graphiccommunication/bsgraphiccommunication/"
+  },
+  {
+    "id": 36,
+    "name": "History",
+    "type": "BA",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/history/bahistory/"
+  },
+  {
+    "id": 37,
+    "name": "Industrial Engineering",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/industrialmanufacturingengineering/bsindustrialengineering/"
+  },
+  {
+    "id": 38,
+    "name": "Industrial Technology and Packaging",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/orfaleacollegeofbusiness/bsindustrialtechnologypackaging/"
+  },
+  {
+    "id": 39,
+    "name": "Interdisciplinary Studies",
+    "type": "BA",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/interdisciplinarystudiesliberalarts/bainterdisciplinarystudies/"
+  },
+  {
+    "id": 40,
+    "name": "Journalism",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/journalism/bsjournalism/"
+  },
+  {
+    "id": 41,
+    "name": "Kinesiology",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/kinesiologypublichealth/bskinesiology/"
+  },
+  {
+    "id": 42,
+    "name": "Landscape Architecture",
+    "type": "BLA",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofarchitectureandenvironmentaldesign/landscapearchitecture/bacheloroflandscapearchitecture/"
+  },
+  {
+    "id": 43,
+    "name": "Liberal Arts and Engineering Studies",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/interdisciplinaryprograms/bsliberalartsandengineeringstudies/#undergraduatetext"
+  },
+  {
+    "id": 44,
+    "name": "Liberal Studies",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/liberalstudiesanundergraduateteacherpreparationprogram/bsliberalstudies/"
+  },
+  {
+    "id": 45,
+    "name": "Manufacturing Engineering",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/industrialmanufacturingengineering/bsmanufacturingengineering/"
+  },
+  {
+    "id": 46,
+    "name": "Marine Sciences",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/biologicalsciences/bsmarinesciences/"
+  },
+  {
+    "id": 47,
+    "name": "Materials Engineering",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/materialsengineering/bsmaterialsengineering/"
+  },
+  {
+    "id": 48,
+    "name": "Mathematics",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/mathematics/bsmathematics/"
+  },
+  {
+    "id": 49,
+    "name": "Mechanical Engineering",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/mechanicalengineering/bsmechanicalengineering/"
+  },
+  {
+    "id": 50,
+    "name": "Microbiology",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/biologicalsciences/bsmicrobiology/"
+  },
+  {
+    "id": 51,
+    "name": "Music",
+    "type": "BA",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/music/bamusic/"
+  },
+  {
+    "id": 52,
+    "name": "Nutrition",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/foodsciencenutrition/bsnutrition/"
+  },
+  {
+    "id": 53,
+    "name": "Philosophy",
+    "type": "BA",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/philosophy/baphilosophy/"
+  },
+  {
+    "id": 54,
+    "name": "Physics",
+    "type": "BA",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/physics/baphysics/"
+  },
+  {
+    "id": 55,
+    "name": "Physics",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/physics/bsphysics/"
+  },
+  {
+    "id": 56,
+    "name": "Plant Sciences",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/plant-sciences/bsplantsciences/index.html"
+  },
+  {
+    "id": 57,
+    "name": "Political Science",
+    "type": "BA",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/politicalscience/bapoliticalscience/"
+  },
+  {
+    "id": 58,
+    "name": "Public Health",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/kinesiologypublichealth/bspublichealth/"
+  },
+  {
+    "id": 59,
+    "name": "Psychology",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/psychologychilddevelopment/bspsychology/"
+  },
+  {
+    "id": 60,
+    "name": "Recreation, Parks, and Tourism Administration",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/experienceindustrymanagement/bsrecreationparksandtourismadministration/"
+  },
+  {
+    "id": 61,
+    "name": "Sociology",
+    "type": "BA",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/socialsciences/basociology/"
+  },
+  {
+    "id": 62,
+    "name": "Software Engineering",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofengineering/computersciencesoftwareengineering/bssoftwareengineering/"
+  },
+  {
+    "id": 63,
+    "name": "Spanish",
+    "type": "BA",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/worldlanguagescultures/baspanish/"
+  },
+  {
+    "id": 64,
+    "name": "Statistics",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofsciencemathematics/statistics/bsstatistics/"
+  },
+  {
+    "id": 65,
+    "name": "Theatre Arts",
+    "type": "BA",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofliberalarts/theatredance/batheatrearts/"
+  },
+  {
+    "id": 66,
+    "name": "Wine and Viticulture",
+    "type": "BS",
+    "url": "https://catalog.calpoly.edu/collegesandprograms/collegeofagriculturefoodenvironmentalsciences/wineandviticulture/bswineandviticulture/"
+  }
+]

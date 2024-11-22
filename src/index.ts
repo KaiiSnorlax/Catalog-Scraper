@@ -2,6 +2,7 @@ import { getDepartments } from "./departments.js";
 import { getCourses } from "./courses.js";
 import fs from "node:fs";
 import { dirname } from "path";
+import { getDocument } from "./utils/makeRequests.js";
 
 const appDir = dirname(import.meta.filename);
 
@@ -15,4 +16,6 @@ for (const department of departments) {
 const courses = await Promise.all(promises);
 const content = JSON.stringify(courses.flat(), null, 2);
 
-fs.writeFileSync(`${appDir}/../testing.txt`, content);
+fs.writeFileSync(`${appDir}/../textOutputs/rawCourses.json`, content);
+
+getDocument("https://catalog.calpoly.edu/programsaz/");

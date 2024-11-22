@@ -14,13 +14,28 @@ async function makeRequest(url: string) {
   }
   lastRequestTime = Date.now();
 
-  const html = await fetch(url).then((res) => res.text());
-  writeCache(url, html);
-  return html;
+  try {
+    const res = await fetch(url);
+    if (res.ok) {
+      const html = await res.text();
+      writeCache(url, html);
+      return html;
+    } else {
+      console.error(`Failed to fetch ${url}: ${res.status} ${res.statusText}`);
+      return null;
+    }
+  } catch (e) {
+    console.error("Connection error", e);
+    return null;
+  }
 }
 
 export async function getDocument(url: string) {
   const html = await makeRequest(url);
-  const document = new JSDOM(html).window.document;
-  return document;
+  if (html) {
+    const document = new JSDOM(html).window.document;
+    return document;
+  } else {
+    throw Error("Document not found! " + url);
+  }
 }
