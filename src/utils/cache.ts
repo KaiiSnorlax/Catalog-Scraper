@@ -1,4 +1,4 @@
-import cacheFile from "../../textOutputs/cache.json" with { type: "json" };
+import cacheFile from "../../textData/cache.json" with { type: "json" };
 import fs from "node:fs";
 import { dirname } from "path";
 

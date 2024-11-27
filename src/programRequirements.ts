@@ -13,7 +13,8 @@ export interface rawProgramRequirements {
 }
 
 export interface requirements {
-  courseListComment?: string[];
+  areaHeader?: string[];
+  courseListComment?: string;
   codeCol?: string;
   hoursCol?: string;
 }
@@ -40,21 +41,31 @@ export async function getPrograms(program: Program): Promise<rawProgramRequireme
   const rows = [...document.querySelectorAll("table.sc_courselist tbody tr")];
   const requirements: requirements[] = [];
   for (const i in rows) {
-    const requirement: { courseListComment?: string[]; codeCol?: string; hoursCol?: string } = {};
+    const requirement: requirements = {};
     const courseListComment = [...rows[i].querySelectorAll("td span.courselistcomment")].map(
       (elem) => elem.textContent!
     );
     const codeCol = [...rows[i].querySelectorAll("td.codecol")].map((elem) => elem.textContent!);
     const hoursCol = [...rows[i].querySelectorAll("td.hourscol")].map((elem) => elem.textContent!);
+    const areaHeader = [...rows[i].querySelectorAll("td span.areaheader")].map((elem) => elem.textContent!);
 
+    if (areaHeader.length > 0) {
+      requirement.areaHeader = areaHeader;
+      requirements.push(requirement);
+      continue;
+    }
     if (codeCol.length > 0 && codeCol[0] !== "") {
       requirement.codeCol = codeCol[0];
     }
-    if (hoursCol.length > 0 && hoursCol[0] !== "") {
+    if (rows[i].classList.contains("listsum") && rows[i].textContent) {
+      const totalUnits = rows[i].textContent.split(/Total units/)[1];
+      requirement.courseListComment = "Total Units";
+      requirement.hoursCol = totalUnits;
+    } else if (hoursCol.length > 0 && hoursCol[0] !== "") {
       requirement.hoursCol = hoursCol[0];
     }
     if (courseListComment.length > 0) {
-      requirement.courseListComment = courseListComment;
+      requirement.courseListComment = courseListComment[0];
     }
     requirements.push(requirement);
   }
