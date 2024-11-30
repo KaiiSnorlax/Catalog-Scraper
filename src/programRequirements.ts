@@ -7,7 +7,7 @@ const appDir = dirname(import.meta.filename);
 export interface RawProgramRequirements {
   id: number;
   program: string;
-  requirements: Row[];
+  tables: Row[][];
 }
 
 export type Row = Header | Course | Comment;
@@ -50,22 +50,25 @@ fs.writeFileSync(`${appDir}/../textOutputs/rawProgramRequirements.json`, content
 async function getProgram(program: Program): Promise<RawProgramRequirements> {
   const document = await getDocument(program.url);
 
-  const rows = [...document.querySelectorAll("table.sc_courselist tbody tr")];
+  const tables: Row[][] = [...document.querySelectorAll("table.sc_courselist")].map((table) => {
+    const rows = [...table.querySelectorAll("tbody tr")];
 
-  const requirements: Row[] = [];
-  for (const row of rows) {
-    const parsedRow = parseRow(row);
+    const requirements: Row[] = [];
+    for (const row of rows) {
+      const parsedRow = parseRow(row);
 
-    if (parsedRow === null) {
-      throw Error(`Unexpected row format for program ${program.name}: ${row.textContent}`);
+      if (parsedRow === null) {
+        throw Error(`Unexpected row format for program ${program.name}: ${row.textContent}`);
+      }
+
+      if (parsedRow) {
+        requirements.push(parsedRow);
+      }
     }
 
-    if (parsedRow) {
-      requirements.push(parsedRow);
-    }
-  }
-
-  return { id: program.id, program: program.name, requirements: requirements };
+    return requirements;
+  });
+  return { id: program.id, program: program.name, tables };
 }
 
 function parseRow(row: Element): Row | false | null {

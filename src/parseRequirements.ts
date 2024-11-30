@@ -26,11 +26,11 @@ class ProgramRows {
 interface Section {
   id: number;
   program: string;
-  requirements: Header[];
+  requirements: Header[][];
 }
 
 interface Header {
-  section: string[];
+  section: string[] | undefined;
   requirements: Requirement[];
 }
 
@@ -49,31 +49,38 @@ interface Comment {
   name: string;
 }
 
-const requirements: Section[] = programs.map((program) => {
-  const rows = new ProgramRows(program.requirements as Row[]);
+const sections: Section[] = programs.map((program) => {
+  const programRequirements = program.tables.map((table) => {
+    const rows = new ProgramRows(table as Row[]);
 
-  const requirements = [];
-  while (rows.peek()) {
-    requirements.push(parseHeader(rows));
-  }
+    const tableRequirements = [];
+    while (rows.peek()) {
+      tableRequirements.push(parseHeader(rows));
+    }
+
+    return tableRequirements;
+  });
 
   return {
-    ...program,
-    requirements,
+    id: program.id,
+    program: program.program,
+    requirements: programRequirements,
   };
 });
 
-const content = JSON.stringify(requirements, null, 2);
+const content = JSON.stringify(sections, null, 2);
 fs.writeFileSync(`${appDir}/../textOutputs/parsedProgramRequirements.json`, content);
 
 function parseHeader(rows: ProgramRows): Header {
-  const header = rows.consume();
+  const first = rows.peek();
 
-  if (!header) {
+  if (!first) {
     throw Error(`Unexpected end of input`);
   }
 
-  if (header.type !== "header") {
+  const header = first.type === "header" ? rows.consume()! : undefined;
+
+  if (header && header.type !== "header") {
     throw Error(`Expected header but got: ${rows.peek()?.type}`);
   }
 
@@ -83,7 +90,7 @@ function parseHeader(rows: ProgramRows): Header {
 
     if (!next || next.type === "header") {
       return {
-        section: header.areaHeader,
+        section: header?.areaHeader,
         requirements: sectionRequirements,
       };
     } else if (next.type === "course") {
